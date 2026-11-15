@@ -1,33 +1,35 @@
 # Rafi
 
-Frontend engineer focused on **application architecture, design systems and accessible, well-tested UI**.
-I care about the parts of frontend work that decide whether a codebase stays changeable: module boundaries, state ownership, API contracts, test strategy and documented trade-offs.
+**Angular-focused frontend engineer.** I build maintainable, accessible, well-tested web applications, and I care about the parts of frontend work that decide whether a codebase stays changeable: component architecture, state ownership, module boundaries, API contracts and testing strategy.
 
-## Featured work
+Angular is my primary stack; I also work across the broader frontend ecosystem (React/Next.js, TypeScript tooling), and the projects below show both.
+
+## Angular
 
 | Project | What it demonstrates |
 |---|---|
-| [**enterprise-react-app**](https://github.com/smrafi4130/enterprise-react-app) | React 18 + TypeScript app with feature-based structure and lint-enforced boundaries, permission-based RBAC, typed API client with single-flight token refresh, optimistic updates, ADRs. Unit, integration (MSW) and Playwright E2E tests, CI. |
-| [**react-design-system**](https://github.com/smrafi4130/react-design-system) | Two-tier design tokens with light/dark themes; accessible Dialog, Tabs, Toast, Field and more with axe tests; Storybook with a11y addon; Playwright visual regression; Changesets versioning. |
-| [**frontend-architecture**](https://github.com/smrafi4130/frontend-architecture) | Case studies and ADRs: app architecture, micro-frontends vs monolith, rendering strategies, caching, Core Web Vitals, security, real-time, observability. |
+| [**angular-enterprise**](https://github.com/smrafi4130/angular-enterprise) | Angular 19 issue tracker: standalone components, **signals** for state, **RxJS** for data flow + optimistic updates, typed reactive forms, **functional guards & HTTP interceptors**, a permission-based structural directive, lazy-loaded routes, role-based access. Karma tests + CI. |
+| [**angular-ui-kit**](https://github.com/smrafi4130/angular-ui-kit) | Accessible component library (`@smrafi/ui`): standalone components on **Angular CDK**, token-driven light/dark theming, packaged with **ng-packagr**, documented in **Storybook** (a11y addon), Karma tests + CI. |
+| [**angular-ngrx**](https://github.com/smrafi4130/angular-ngrx) | **NgRx** state management done idiomatically: entity adapter, action groups, pure reducer, **memoized selectors** + derived state, **effects** isolating async work. Reducer/selector/effects tests + CI. |
+| [**music-school-web**](https://github.com/smrafi4130/music-school-web) | Earlier Angular application (Angular 7) — longer-standing Angular experience. |
 
-Each repository's README states what is implemented, what is not, and the trade-offs made.
+## Broader frontend (React / Next.js / TypeScript)
+
+| Project | What it demonstrates |
+|---|---|
+| [**feedback-board**](https://github.com/smrafi4130/feedback-board) | Full-stack Next.js App Router app: Server Components + Server Actions, Postgres via Drizzle, cookie auth, tag-based caching; unit, DB-integration and Playwright E2E tests. |
+| [**enterprise-react-app**](https://github.com/smrafi4130/enterprise-react-app) | React + TypeScript app: feature-based structure with lint-enforced boundaries, permission-based RBAC, typed API client with token refresh, three test layers. |
+| [**react-design-system**](https://github.com/smrafi4130/react-design-system) | Design tokens + accessible primitives, Storybook, Playwright visual regression, Changesets versioning. |
+| [**performance-lab**](https://github.com/smrafi4130/performance-lab) | Measured performance case study: the same dashboard naive vs optimized, with reproducible Lighthouse + bundle before/after results. |
+
+## Engineering writing
+[**frontend-architecture**](https://github.com/smrafi4130/frontend-architecture) — case studies and ADRs on app architecture, rendering strategies, caching, Core Web Vitals, frontend security, real-time and observability (framework-agnostic).
 
 ## How I work
 - **Decisions are written down.** Non-obvious choices get an ADR with alternatives and consequences.
-- **Boundaries are enforced by tooling**, not convention.
-- **Accessibility is tested** (keyboard flows, ARIA wiring, axe), not assumed.
-- **Mocks sit at the network edge**, so tests exercise the real client, cache and router.
-
-## Stack
-TypeScript · React · TanStack Query · Zustand · Vite · Vitest · Testing Library · Playwright · Storybook · MSW · pnpm · GitHub Actions
-Earlier work also in Angular, Node/Express and MongoDB.
-
-## Earlier work
-Public history on this profile starts in 2016. [`music-school-web`](https://github.com/smrafi4130/music-school-web) is a larger Angular 7 application from 2019.
-
-## In progress
-A measured frontend performance project (profiling, bundle analysis, before/after results) and a full-stack Next.js application with a real backend.
+- **Accessibility is tested** — keyboard flows, ARIA wiring, axe — not assumed.
+- **Boundaries and quality are enforced by tooling**, not convention (lint rules, typecheck, CI on every repo).
+- Each repository's README states what is implemented, what is not, and the trade-offs made.
 
 ## Contact
 <!-- Add your preferred public contact (LinkedIn, website, email) here. -->
