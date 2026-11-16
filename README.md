@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm S M Rafi 👋</h1>
-<p align="center"><b>Angular-focused Frontend Engineer</b> · building maintainable, accessible, well-tested web apps</p>
+<p align="center"><b>Front-End Engineer &amp; UI Developer</b> · Angular specialist</p>
+<p align="center"><i>Fully focused on the front end — architecture, accessible UI craft, and well-tested interfaces.</i></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
@@ -12,7 +13,7 @@
 
 ---
 
-I care about the parts of frontend work that decide whether a codebase stays changeable: **component architecture, state ownership, module boundaries, API contracts and testing strategy**. Angular is my primary stack; I also work across the broader frontend ecosystem, and the projects below show both.
+I work exclusively on the **front end** — where engineering meets interface craft. I care about the parts that decide whether a UI is both a pleasure to use and a codebase that stays changeable: **component architecture, design systems, accessibility, state ownership, performance, and testing strategy**. **Angular** is my specialism; I also build across the wider front-end ecosystem (React / Next.js), and the projects below show both the design and engineering sides.
 
 > Every repository's README states what is implemented, what is not, and the trade-offs made.
 
