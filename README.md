@@ -73,8 +73,6 @@ I care about the parts of frontend work that decide whether a codebase stays cha
 Open to **Senior Frontend Engineer** opportunities. The best way to reach me is through the links below.
 
 <p>
-  <!-- Replace the placeholders with your real links and I'll push them (or edit here on GitHub). -->
+  <a href="https://www.linkedin.com/in/smrafi-me/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/smrafi4130"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
-  <!-- <a href="https://www.linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> -->
-  <!-- <a href="mailto:YOU@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a> -->
 </p>
