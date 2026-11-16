@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Rafi 👋</h1>
+<h1 align="center">Hi, I'm S M Rafi 👋</h1>
 <p align="center"><b>Angular-focused Frontend Engineer</b> · building maintainable, accessible, well-tested web apps</p>
 
 <p align="center">
