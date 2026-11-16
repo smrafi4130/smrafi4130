@@ -68,17 +68,13 @@ I care about the parts of frontend work that decide whether a codebase stays cha
 - 🧱 **Boundaries & quality are enforced by tooling**, not convention — lint rules, strict TypeScript, CI on every repo.
 - 🧪 **Mocks sit at the network edge**, so tests exercise the real app, cache and router.
 
-## 📊 GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=smrafi4130&show_icons=true&hide_border=true&title_color=2563eb&icon_color=2563eb&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smrafi4130&layout=compact&hide_border=true&title_color=2563eb&langs_count=8" alt="top languages" />
-</p>
-
 ## 📫 Contact
 
-<!-- Add your preferred public contact below (replace the placeholders, then I'll push). -->
+Open to **Senior Frontend Engineer** opportunities. The best way to reach me is through the links below.
+
 <p>
-  <!-- <a href="https://www.linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> -->
-  <!-- <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a> -->
+  <!-- Replace the placeholders with your real links and I'll push them (or edit here on GitHub). -->
+  <a href="https://github.com/smrafi4130"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
+  <!-- <a href="https://www.linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> -->
+  <!-- <a href="mailto:YOU@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a> -->
 </p>
